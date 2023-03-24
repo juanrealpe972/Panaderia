@@ -3,5 +3,14 @@
     border: 0%;
 }
 body{
-    
+    background-image: url(https://previews.123rf.com/images/teploleta/teploleta1507/teploleta150700232/42280315-mano-panader%C3%ADa-dibujado-patr%C3%B3n-de-fondo-sin-fisuras.jpg);
+    width: 100%;
+    height: 100vh;
+    text-align: center;
+}
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    padding: 15px;
 }
